@@ -1,2 +1,4 @@
 # ICIN-Bank
 Capstone project
+
+A dynamic and responsive Java online banking web application to deposit, withdraw, and transfer the money between the accounts. I have used Java as a backend, angular as frontend and Mysql for database connectivity.
